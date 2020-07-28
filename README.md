@@ -1,4 +1,4 @@
-# RADHIKA-35.github.io
+# Team-Ares
 Project Title: Mission Tic-Tac-Mars
 
 URL for our deployed game : https://saumyata0427.github.io/Team-Ares/
